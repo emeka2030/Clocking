@@ -1,5 +1,5 @@
 //this is where the script will go
-setInterval(showTime, 1000);
+setInterval(showTime, 100);
 
 function showTime(){
 
