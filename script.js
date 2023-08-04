@@ -21,7 +21,7 @@ function showTime(){
 
    let currentTime = hours + ":" + minutes + ":" + sec + " " + amorpm;
 
-    document.getElementId("clock").innerHTML = currentTime;
+    document.getElementId("clock2").innerHTML = currentTime;
 
 }
 
